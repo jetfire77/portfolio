@@ -1,0 +1,20 @@
+.sidebar{
+    background-color: #5f5b5b;
+max-height: 600px;
+overflow-y:scroll;
+}
+
+
+.list-group-item{
+
+   
+    color: #e77823;
+    border-bottom: 1px solid #aba8a8
+
+}
+
+.main-content{
+
+    background-color:  rgba(178, 250, 145, .0);;
+
+}
